@@ -1,10 +1,10 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
 import { Switch, Route } from 'react-router-dom';
-import Content from './components/Content';
+// import Content from './components/Content';
 import Dropdown from './components/Dropdown';
 import Footer from './components/Footer';
-import Hero from './components/Hero';
+// import Hero from './components/Hero';
 import Navbar from './components/Navbar';
 import Home from './pages';
 import Menu from './pages/menu';
